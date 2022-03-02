@@ -1,0 +1,1 @@
+http://77.222.61.246/ + Host: kak-doehat.ru (добавление хеддера через ddosify: -h, bombardier: -H)
