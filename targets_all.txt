@@ -27,11 +27,13 @@ https://ru.gorpolikliniki.ru/?s=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA
 https://russia.poezda.net/
 https://rzd.ru
 https://tagancity.ru/
+https://vokzalbelgorod.ru/
+https://vokzalkursk.ru/
+https://vokzalrostov.ru/
+https://vrn.mydocuments36.ru/user/logout
 https://web2.rkursk.ru/projects-map/borders.json
 https://www.avtovokzaly.ru/raspisanie/sevastopol
 https://www.brkmed.ru
 https://www.ffoms.gov.ru/
+https://www.govvrn.ru/uslugi
 https://www.poezda.net/
-https://vokzalbelgorod.ru/
-https://vokzalkursk.ru/
-https://vokzalrostov.ru/
