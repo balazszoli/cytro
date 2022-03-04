@@ -22,3 +22,4 @@ http://zdravorel.ru
 http://bus46.ru/
 http://www.bus46.ru/
 https://web2.rkursk.ru/projects-map/borders.json
+https://www.poezda.net/
