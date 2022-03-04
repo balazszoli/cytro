@@ -1,17 +1,9 @@
-http://46reg.roszdravnadzor.ru
 http://aids-orel.ru
 http://bsmp-1.ru/taxonomy/term/8?page=25
-http://bus46.ru/
 http://rostov.dzvr.ru/
 http://taganrog-gbsmp.ru/
-http://voronezh.rusavtobus.ru/modules/autocomplete/autocomplete.php?q=%D0%BA%D0%BE%D0%BB&city=%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6
-http://www.belzdrav.ru/
-http://www.bus46.ru/
-http://www.kurskoms.ru/
-http://www.tmo-10.vrn.ru/
+http://voronezh.rusavtobus.ru/modules/autocomplete/autocomplete.php?q=j&city=%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6
 http://www.uztag.ru
-http://zdrav36.ru/
-http://zdravorel.ru
 https://adm.rkursk.ru/index.php?id=390
 https://avtovokzal31.ru/
 https://busfor.ru/
@@ -20,7 +12,6 @@ https://eee3.ru/
 https://goonbus.ru/moskva-s
 https://krasnodar1.ru/txt.php?nc=one&id=216
 https://kursk.ru/search/?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0
-https://kurskzdrav.ru
 https://ru.gorpolikliniki.ru/?s=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%BB%D1%8C
 https://russia.poezda.net/
 https://rzd.ru
@@ -29,9 +20,7 @@ https://vokzalbelgorod.ru/
 https://vokzalkursk.ru/
 https://vokzalrostov.ru/
 https://vrn.mydocuments36.ru/user/logout
-https://web2.rkursk.ru/projects-map/borders.json
-https://www.avtovokzaly.ru/raspisanie/sevastopol
 https://www.brkmed.ru
 https://www.ffoms.gov.ru/
-https://www.govvrn.ru/uslugi
 https://www.poezda.net/
+https://apteka.ru/category/derma_cosmetics/body/?withprice=1&withprofit=1
