@@ -32,3 +32,6 @@ https://rosreestr.gov.ru/ajax/search/main.php?action=search&q=%D0%BF%D0%B5%D1%80
 https://rosreestr.gov.ru/sitemap/
 https://rosreestr.gov.ru/open-service/poleznye-ssylki/
 https://poezd.ru/nalichie-mest/Sankt-Peterburg/Moskva/?SearchForm%5BdateTo%5D=20.03.2022 + Host: poezd.ru
+https://busfor.ru/
+https://rfbus.ru/category/news
+https://rfbus.ru/wp-content/themes/wp1/ajax_api.php?action=get_stations&node=from&term=%D1%81&from_id=&api_version=2
