@@ -31,4 +31,5 @@ https://rosreestr.gov.ru/open-service/poleznye-ssylki/
 https://rfbus.ru/category/news
 https://rfbus.ru/wp-content/themes/wp1/ajax_api.php?action=get_stations&node=from&term=%D1%81&from_id=&api_version=2
 https://travel.rzd.ru/api/v1/suggestions/hotelcity?name=%D0%A1%D0%BE&limitCity=200&limitHotel=20
+https://travel.rzd.ru/hotels/search?adult=2&child=0&infant=0&checkInDate=2022-03-07&checkOutDate=2022-03-12&sortingField=price&sortingDirection=asc&pageNumber=1&cityId=5e1c9e185de140eada26b02f
 https://goonbus.ru/moskva-s
