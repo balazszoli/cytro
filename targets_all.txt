@@ -19,7 +19,7 @@ https://vokzalrostov.ru/
 https://vrn.mydocuments36.ru/user/logout
 https://www.brkmed.ru
 https://www.ffoms.gov.ru/
-https://apteka.ru/category/proficosmetics/profiface/?filter=brand%3Aaravia_professional%2Bestel%2Brevitalash%3Bob%3A150%3B&withprice=1&noindex=1
+https://apteka.ru/category/proficosmetics/profihead/?filter=brand%3Aadd_plex%2Bbosley_professional_strength%2Baravia_professional%2Bconstant_delight%3B&noindex=1&withprofit=1
 https://apteka.ru/search/?q=%D0%91%D0%B8%D1%84%D0%B8%D1%84%D0%BE%D1%80%D0%BC
 https://apteka.ru/category/vitamin-mineral/womens_health/?filter=naz%3Adlyaz%2Bdlyan%2Bdlyano%3Bfor%3Akap%3B&noindex=1&withprofit=1
 https://api.apteka.ru/AutoDest/PointList?inLatitudeTop=55.9668609&inLatitudeBottom=55.4798051&inLongitudeLeft=37.22770785&inLongitudeRight=37.98090315&cityId=5e57803249af4c0001d64407
