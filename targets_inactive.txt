@@ -15,6 +15,7 @@ http://www.belzdrav.ru/
 http://www.tmo-10.vrn.ru/
 https://212.193.54.159/ + Host: vokzalkursk.ru
 https://212.193.54.159/ + Host: vokzalrostov.ru
+https://212.193.54.159/ + Host: vokzalbelgorod.ru
 http://46reg.roszdravnadzor.ru
 https://www.govvrn.ru/uslugi
 http://zdrav36.ru/
@@ -24,3 +25,4 @@ http://www.bus46.ru/
 https://web2.rkursk.ru/projects-map/borders.json
 https://www.poezda.net/
 http://77.222.61.246/ + Host: kak-doehat.ru
+https://goonbus.ru/moskva-s
